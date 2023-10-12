@@ -1,0 +1,9 @@
+{
+    "workbench.editorAssociations": {   
+        "*.md": "vscode.markdown.preview.editor",
+    },
+    "workbench.startupEditor": "readme",
+    "workbench.activityBar.visible": false,
+    "terminal.integrated.hideOnStartup": "always",
+    "workbench.statusBar.visible": false
+}
